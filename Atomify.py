@@ -61,7 +61,7 @@ def main(csv_path):
     
 
 if __name__ == "__main__":
-    main("/Users/vivekshah/Downloads/labeled/client3/Meal Kit Co - Supply Management - raw_DC Inventory.csv")
+    main("csv_path")
 
 
 
